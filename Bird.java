@@ -6,7 +6,12 @@ class Bird extends Animal {
     }
 
     String makeNoise() {
-        return "Tweet";
+        int x = 3;
+        if (x == 4) {
+            return "Tweet";
+        } else 
+            return "Chirp";
+        }
     }
     
     // Birds will "move" by flying.
