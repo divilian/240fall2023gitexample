@@ -2,7 +2,6 @@
 class Bird extends Animal {
 
     Bird() { 
-        super();
         System.out.println("hi i'm a bird");
     }
 
