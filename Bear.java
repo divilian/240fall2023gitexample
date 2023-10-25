@@ -1,0 +1,2 @@
+
+class Bear extends Animal { }
